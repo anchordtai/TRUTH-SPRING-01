@@ -1,0 +1,108 @@
+/* sign up style */
+h1 {
+  margin: 10px;
+  font-size: 20px;
+  text-align: center;
+  
+  color: #056008;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 15%;
+  
+  text-align: center;
+  background-color: #056008;
+  color: white;
+  padding: 10px 10px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #c55d02;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 40%;
+  margin-left: 30%;
+  
+  }
+
+  .copyright {
+    font-size: 10px;
+  }
+  
+/*end sign up style */
+
+ /* log instyle */
+ h1 {
+  margin: 30px;
+  /* margin-left: 48%; */
+  font-size: 25px;
+  color: #012102;
+  }
+
+input[type=text], select {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 15%;
+  
+  text-align: center;
+  background-color: #056008;
+  color: white;
+  padding: 10px 10px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #c55d02;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 40%;
+  margin-left: 30%;
+  
+  }
+  .copyright {
+    font-size: 10px;
+    
+  }
+ /* login style */
+ .form-container{
+  text-align: center;
+}
+label {
+  display: block;
+}
+/* end login style */
+/* account style */
+
+/* endaccount us style *
