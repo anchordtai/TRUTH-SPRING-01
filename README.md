@@ -1,3 +1,1 @@
-# spring-of-truth-ministries
-# spring-of-truth-ministries
-# spring-of-truth-ministries
+# TRUTH-SPRING01
